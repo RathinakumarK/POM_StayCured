@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="StayCured Test Suite">
+<!-- <test name="UpdateProfile Test">
+    <classes>
+      <class name="testCases.UpdateProfile"/>
+   </classes>
+  </test> -->
+  <test name="BookAppointments Test">
+    <classes>
+      <class name="testCases.BookAppointments"/>
+   </classes>
+  </test>
+
+
+</suite>

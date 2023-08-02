@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [StayCured Test Suite]">
+  <test thread-count="5" name="BookAppointments Test(failed)">
+    <classes>
+      <class name="testCases.BookAppointments">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="teardown"/>
+          <include name="bookAppointments"/>
+        </methods>
+      </class> <!-- testCases.BookAppointments -->
+    </classes>
+  </test> <!-- BookAppointments Test(failed) -->
+</suite> <!-- Failed suite [StayCured Test Suite] -->
